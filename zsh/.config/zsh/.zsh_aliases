@@ -1,0 +1,28 @@
+alias viewpath="echo $PATH | sed 's/:/\n/g' | sort | uniq -c"
+alias viewenviron="cat /etc/environment"
+
+# update system
+alias sudoup='sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y autoremove'
+
+# Windows Programs
+alias explorer='explorer.exe'
+alias expl='explorer'
+alias notepad='notepad.exe'
+alias clip='clip.exe'
+alias cmd='cmd.exe'
+alias powershell='powershell.exe'
+alias winver='winver.exe'
+alias wslconfig='wslconfig.exe'
+alias code='/mnt/c/Program\ Files/Microsoft\ VS\ Code/bin/code'
+alias codee='/mnt/c/Program\ Files/Microsoft\ VS\ Code\ Insiders/bin/code-insiders'
+alias krak='/mnt/c/Users/jimmy/AppData/Local/gitkraken/app-8.2.0/gitkraken.exe --path $(pwd)'
+
+# git-crypt
+alias gcrypt='git-crypt'
+alias gcrypts='git-crypt status -e'
+
+# Display
+alias ls='ls --color=auto'
+
+alias sudoup="sudo apt-get -y update && sudo apt-get -y upgrade && sudo apt-get -y autoremove"
+alias gcrypts="git-crypt status -e"
