@@ -75,6 +75,7 @@ alias winver='winver.exe'
 alias wslconfig='wslconfig.exe'
 alias code='/mnt/c/Program\ Files/Microsoft\ VS\ Code/bin/code'
 alias codee='/mnt/c/Program\ Files/Microsoft\ VS\ Code\ Insiders/bin/code-insiders'
+alias krak='/mnt/c/Users/jimmy/AppData/Local/gitkraken/app-8.2.0/gitkraken.exe --path $(pwd)'
 
 # git-crypt
 alias gcrypt='git-crypt'
