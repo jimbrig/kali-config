@@ -7,6 +7,24 @@ All notable changes to this project will be documented in this file.
 
 - Initialize zsh, bash, and radian
 - Updates to gh-cli and others
+- Add CHANGELOG.md
+- Add oh-my-zsh and custom theme
+- Add .docker dotfiles
+- Add htop dotfiles
+- Add neofetch .dotfiles
+- Add NuGet and Powershell profiles/configs
+- Add s-search config
+- Add topgrade config
+- Add all bash configs
+- Add java preferences
+- Add keep commands
+- Add kubernetes configs
+- Add login profile configs
+- Add R dotfiles
+- Add SSH configs and public keys
+- Add gitconfig
+- Add powerlevel10k theme for zsh
+- Add wsl.conf
 
 ### Config
 
