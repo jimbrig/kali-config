@@ -1,0 +1,3 @@
+.gcalcli_oauth filter=git-crypt diff=git-crypt
+.gcalclirc filter=git-crypt diff=git-crypt
+.gcalcli_cache filter=git-crypt diff=git-crypt
